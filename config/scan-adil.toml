@@ -1,0 +1,8 @@
+[directories]
+exclude = ["/Users/hasan/Library",
+    "/Users/hasan/VirtualBox VMs",
+    "/Users/hasan/Repos",
+    "/Users/hasan/Pictures",
+    "/Users/hasan/pCloud Drive",
+    "/Users/hasan/Google Drive",
+    "/Users/hasan/Applications",]
